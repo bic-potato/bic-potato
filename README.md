@@ -4,7 +4,7 @@
 - *No* Interest in research
 - Have *great* interest in ***useless*** things
 
-####　Programming languages
+#### Programming languages
 <del style="text-color:grey">Use python for *work*,  C# for *life* </del>
 
 <p style="text-align:left">
